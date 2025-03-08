@@ -1,0 +1,19 @@
+{
+  "name": "@elisaderossi/npm-test-package",
+  "version": "1.0.0",
+  "description": "just a test package, it is actually useless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElisaDeRossi/npm-test-package.git"
+  },
+  "author": "Elisa De Rossi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElisaDeRossi/npm-test-package/issues"
+  },
+  "homepage": "https://github.com/ElisaDeRossi/npm-test-package#readme"
+}
